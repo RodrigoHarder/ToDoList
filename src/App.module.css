@@ -1,0 +1,14 @@
+.listaDeTarefas{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px;
+    background-color: #1E1B18;
+    padding:20px;
+}
+
+.listaDeTarefas h1{
+    align-self: center;
+}
+
+

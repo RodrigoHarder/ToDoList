@@ -1,0 +1,19 @@
+.taskItem {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .checkbox {
+    cursor: pointer;
+  }
+  
+  .taskTitle {
+    text-decoration: none;
+  }
+  
+  .completed {
+    text-decoration: line-through;
+  }
+  
